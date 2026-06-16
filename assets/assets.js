@@ -82,24 +82,34 @@ export const assets = {
 
 export const workData = [
   {
-    title: "Restaurant project",
-    description: "Web Design",
-    bgImage: "/work-1.png",
+    title: "WorldCupIQ project",
+    description: "Web Application",
+    bgImage: "/worldcupiq.png",
+    link: "https://github.com/ademolaajibade/WorldCupIQ",
   },
   {
-    title: "Chat app",
-    description: "Web App",
-    bgImage: "/work-2.png",
+    title: "Wellness check-in app",
+    description: "Web Application",
+    bgImage: "/wellness.png",
+    link: "https://github.com/ademolaajibade/wellness-checkin",
   },
   {
     title: "Photography site",
     description: "Web Design",
     bgImage: "/work-3.png",
+    link: "https://github.com/ademolaajibade/maleek-photography",
   },
   {
     title: "ErrandEASE",
     description: "UI/UX Design",
-    bgImage: "/work-4.png",
+    bgImage: "/errandease.png",
+    link: "https://www.figma.com/proto/PrEc1wiGrjmKbEr1ZTpDQW/ErrandEASE?node-id=1-3&starting-point-node-id=1%3A3",
+  },
+  {
+    title: "Restaurant project",
+    description: "Web Application",
+    bgImage: "/work-1.png",
+    link: "https://github.com/ademolaajibade/RestaurantProject",
   },
 ];
 
