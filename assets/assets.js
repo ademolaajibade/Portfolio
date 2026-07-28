@@ -94,16 +94,22 @@ export const workData = [
     link: "https://github.com/ademolaajibade/wellness-checkin",
   },
   {
-    title: "Photography site",
-    description: "Web Design",
-    bgImage: "/work-3.png",
-    link: "https://github.com/ademolaajibade/maleek-photography",
+    title: "Maleek Photography site",
+    description: "Web Site",
+    bgImage: "/maleek.png",
+    link: "https://maleekshotit.com",
   },
   {
     title: "ErrandEASE",
     description: "UI/UX Design",
     bgImage: "/errandease.png",
     link: "https://www.figma.com/proto/PrEc1wiGrjmKbEr1ZTpDQW/ErrandEASE?node-id=1-3&starting-point-node-id=1%3A3",
+  },
+   {
+    title: "LeagueIQ project",
+    description: "Web Application",
+    bgImage: "/league.png",
+    link: "https://league-iq-one.vercel.app/",
   },
   {
     title: "Restaurant project",
