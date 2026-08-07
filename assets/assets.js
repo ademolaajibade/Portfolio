@@ -81,36 +81,40 @@ export const assets = {
 };
 
 export const workData = [
-  {
-    title: "WorldCupIQ project",
-    description: "Web Application",
-    bgImage: "/worldcupiq.png",
-    link: "https://github.com/ademolaajibade/WorldCupIQ",
-  },
-  {
-    title: "Wellness check-in app",
-    description: "Web Application",
-    bgImage: "/wellness.png",
-    link: "https://github.com/ademolaajibade/wellness-checkin",
-  },
-  {
+    {
     title: "Maleek Photography site",
     description: "Web Site",
     bgImage: "/maleek.png",
     link: "https://maleekshotit.com",
   },
-  {
-    title: "ErrandEASE",
-    description: "UI/UX Design",
-    bgImage: "/errandease.png",
-    link: "https://www.figma.com/proto/PrEc1wiGrjmKbEr1ZTpDQW/ErrandEASE?node-id=1-3&starting-point-node-id=1%3A3",
-  },
-   {
+     {
     title: "LeagueIQ project",
     description: "Web Application",
     bgImage: "/league.png",
     link: "https://league-iq-one.vercel.app/",
   },
+   {
+    title: "ErrandEASE",
+    description: "UI/UX Design",
+    bgImage: "/errandease.png",
+    link: "https://www.figma.com/proto/PrEc1wiGrjmKbEr1ZTpDQW/ErrandEASE?node-id=1-3&starting-point-node-id=1%3A3",
+  },
+ 
+  {
+    title: "Estate Dues Tracker",
+    description: "Web Application",
+    bgImage: "/wellness.png",
+    link: "https://github.com/ademolaajibade/estate-due-tracker",
+  },
+
+   {
+    title: "WorldCupIQ project",
+    description: "Web Application",
+    bgImage: "/worldcupiq.png",
+    link: "https://github.com/ademolaajibade/WorldCupIQ",
+  },
+ 
+
   {
     title: "Restaurant project",
     description: "Web Application",
